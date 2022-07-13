@@ -38,7 +38,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_calendar: yes
           plugin_repositories: yes
           plugin_repositories_featured: astro-bryceguy
           plugin_repositories_pinned: 2
