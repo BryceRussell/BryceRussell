@@ -23,6 +23,8 @@ jobs:
           commits_authoring: BryceRussell, brycetrussell@gmail.com, .user.email, .user.name
           config_timezone: America/Chicago
           config_twemoji: yes
+          plugin_lines: yes
+          plugin_traffic: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -35,3 +37,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_calendar: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: astro-bryceguy
+          plugin_repositories_pinned: 2
