@@ -20,7 +20,7 @@ jobs:
           config_padding: 12%
           user: BryceRussell
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           commits_authoring: BryceRussell, brycetrussell@gmail.com, .user.email, .user.name
           config_timezone: America/Chicago
           config_twemoji: yes
