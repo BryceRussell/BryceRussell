@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -66,16 +66,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.2mb of code in 2366 edited files across 681 commits</small>
+                <small>estimation from 10.4mb of code in 2531 edited files across 712 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.9242169281481" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="279.9242169281481" y="0" width="171.26081549745916" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="451.18503242560723" y="0" width="8.594277721686371" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.7793101472936" y="0" width="0.22068985270635075" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.2510413645066" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="272.2510413645066" y="0" width="176.81058188779951" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="449.0616232523061" y="0" width="10.723815049022452" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.78543830132855" y="0" width="0.21456169867146258" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -87,8 +87,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>509 kB</div>
-                                <div>60.85%</div>
+                                <div>510 kB</div>
+                                <div>59.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -99,8 +99,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>15.6 kB</div>
-                                <div>1.87%</div>
+                                <div>20 kB</div>
+                                <div>2.33%</div>
                             </small>
                         </div>
                     </section>
@@ -113,8 +113,8 @@
                                 Astro
                             </div>
                             <small>
-                                <div>311 kB</div>
-                                <div>37.23%</div>
+                                <div>331 kB</div>
+                                <div>38.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
